@@ -33,7 +33,7 @@ A proactive release communication initiative designed to improve visibility into
 
 **Key Skills:** Product Communication, Stakeholder Management, Content Strategy, Cross-Functional Collaboration
 
-➡️ [View Case Study]([[./technical-writing/release-radar.md](https://github.com/DominusVince/vincent-gold-suite/blob/main/portfolio/release-radar.md)]
+➡️ [View Case Study](release-radar.md)
 
 ---
 
@@ -133,5 +133,5 @@ Whether through documentation, visual communication, learning experiences, custo
 
 ---
 
-**Author:** Vincent Moraes
+**Author:** Vincent Moraes  
 **Role:** Senior Technical Writer | Learning Experience Designer | Information Development Specialist
